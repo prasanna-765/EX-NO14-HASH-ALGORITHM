@@ -1,8 +1,8 @@
 # EX-NO:14-HASH-ALGORITHM
 
 
-## NAME:Mohammed Faizal J
-## REG NO:212222100027
+## NAME:Prasanna A
+## REG NO:212223220078
 
 
 ## AIM:
